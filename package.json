@@ -1,0 +1,24 @@
+{
+  "name": "astra2000",
+  "version": "1.0.0",
+  "description": "astra2000 cikupa",
+  "author": "anwar",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "js-cookie": "^2.2.1",
+    "nuxt": "^2.0.0",
+    "qs": "^6.9.3",
+    "vue-html-to-paper": "^1.3.1",
+    "vuex-persist": "^2.2.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.0"
+  }
+}
